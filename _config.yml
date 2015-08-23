@@ -1,0 +1,11 @@
+# Site settings
+title: Marcus Christie
+email: marc.christie@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  My awesome place on the web for a blog and other writings! Yeah!
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: marcus_christie
+github_username:  machristie
+
+# Build settings
+markdown: kramdown
